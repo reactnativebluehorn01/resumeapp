@@ -36,4 +36,4 @@ v.1.0.0
 
 ## Authors
 
-* **Lucas Lima** - [lucasmrl](https://github.com/lucasmrl)
+* **Faiz Ullah** - [reactnativebluehorn01](https://github.com/reactnativebluehorn01)
